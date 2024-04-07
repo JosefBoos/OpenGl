@@ -1,0 +1,8 @@
+-I/home/maxim/Programming/Cpp/OpenGL/cmake-3.29.1/Utilities/std
+-I/home/maxim/Programming/Cpp/OpenGL/cmake-3.29.1/Utilities
+-I/home/maxim/Programming/Cpp/OpenGL/cmake-3.29.1/Utilities
+-I/home/maxim/Programming/Cpp/OpenGL/cmake-3.29.1/Source/QtDialog
+-I/home/maxim/Programming/Cpp/OpenGL/cmake-3.29.1/Source/QtDialog
+-o
+/home/maxim/Programming/Cpp/OpenGL/cmake-3.29.1/Source/QtDialog/moc_QCMakeCacheView.cpp
+/home/maxim/Programming/Cpp/OpenGL/cmake-3.29.1/Source/QtDialog/QCMakeCacheView.h
